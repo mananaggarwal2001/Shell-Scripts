@@ -13,6 +13,5 @@ done
 fi 
 
 # is used to end the process of the if statement.
-
-
+# $ is used for using the variable in the string in the shell
 # & is used just to speed up the things in the script.
